@@ -1,0 +1,37 @@
+T-Spice - Tanner SPICE
+Version 16.30
+Network license
+Product Release ID: T-Spice Win64 16.30.20150626.02:41:53
+Copyright © 1988-2015 Mentor Graphics Corporation
+
+	Parsing "C:\VLSI\Vlsi Tech File-20241018T163704Z-001\Vlsi Tech File\L-edit Lab\and.spc"
+	Initializing parser from header file "C:\Program Files\Tanner EDA\Tanner Tools v16.3\tiburonda\models\VAdatabase.sp"
+	Including "C:\VLSI\Vlsi Tech File-20241018T163704Z-001\Vlsi Tech File\SCN_0.25u_CMOS.md"
+
+Start of and.spc
+Loaded BSIM3v31 model library, Berkeley BSIM3 v3.1.0 with extensions
+
+General options:
+        threads = 1
+
+ Device and node counts:
+              MOSFETs -       6
+    MOSFET geometries -       6
+      Voltage sources -       4
+   Subckt Definitions -       1
+     Subckt Instances -       0
+    Model Definitions -       2
+      Computed Models -       2
+    Independent nodes -       4
+       Boundary nodes -       5
+          Total nodes -       9
+
+	Opening simulation database "C:\VLSI\Vlsi Tech File-20241018T163704Z-001\Vlsi Tech File\L-edit Lab\and.tsim"
+
+Setup                        0.01 seconds
+Transient Analysis           0.04 seconds
+Overhead                     0.68 seconds
+-----------------------------------------
+Total                        0.75 seconds
+
+Simulation completed

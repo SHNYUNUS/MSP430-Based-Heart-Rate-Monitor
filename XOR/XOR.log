@@ -1,0 +1,36 @@
+T-Spice - Tanner SPICE
+Version 16.30
+Network license
+Product Release ID: T-Spice Win64 16.30.20150626.02:41:53
+Copyright © 1988-2015 Mentor Graphics Corporation
+
+	Parsing "C:\VLSI\Vlsi Tech File-20241018T163704Z-001\Vlsi Tech File\L-edit Lab\XOR.spc"
+	Initializing parser from header file "C:\Program Files\Tanner EDA\Tanner Tools v16.3\tiburonda\models\VAdatabase.sp"
+	Including "C:\VLSI\Vlsi Tech File-20241018T163704Z-001\Vlsi Tech File\SCN_0.25u_CMOS.md"
+
+Start of XOR.spc
+Loaded BSIM3v31 model library, Berkeley BSIM3 v3.1.0 with extensions
+
+General options:
+        threads = 1
+
+ Device and node counts:
+              MOSFETs -      22
+    MOSFET geometries -      12
+      Voltage sources -       4
+   Subckt Definitions -       1
+     Subckt Instances -       0
+    Model Definitions -       2
+      Computed Models -       2
+    Independent nodes -      12
+       Boundary nodes -       5
+          Total nodes -      17
+
+	Opening simulation database "C:\VLSI\Vlsi Tech File-20241018T163704Z-001\Vlsi Tech File\L-edit Lab\XOR.tsim"
+
+Transient Analysis           0.05 seconds
+Overhead                     0.45 seconds
+-----------------------------------------
+Total                        0.53 seconds
+
+Simulation completed

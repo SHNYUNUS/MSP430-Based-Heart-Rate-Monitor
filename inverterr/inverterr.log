@@ -1,0 +1,40 @@
+T-Spice - Tanner SPICE
+Version 16.30
+Network license
+Product Release ID: T-Spice Win64 16.30.20150626.02:41:53
+Copyright © 1988-2015 Mentor Graphics Corporation
+
+	Parsing "C:\VLSI\Vlsi Tech File-20241018T163704Z-001\Vlsi Tech File\L-edit Lab\inverterr.spc"
+	Initializing parser from header file "C:\Program Files\Tanner EDA\Tanner Tools v16.3\tiburonda\models\VAdatabase.sp"
+	Including "C:\VLSI\Vlsi Tech File-20241018T163704Z-001\Vlsi Tech File\SCN_0.25u_CMOS.md"
+
+Start of inverterr.spc
+Loaded BSIM3v31 model library, Berkeley BSIM3 v3.1.0 with extensions
+Warning : "inverterr.spc" line 21 Node 1 is attached to only one device (M1)
+
+General options:
+        threads = 1
+
+ Device and node counts:
+              MOSFETs -       2
+    MOSFET geometries -       2
+      Voltage sources -       3
+   Subckt Definitions -       1
+     Subckt Instances -       0
+    Model Definitions -       2
+      Computed Models -       2
+    Independent nodes -       2
+       Boundary nodes -       4
+          Total nodes -       6
+*** 1 WARNING MESSAGE GENERATED DURING SETUP
+
+
+	Opening simulation database "C:\VLSI\Vlsi Tech File-20241018T163704Z-001\Vlsi Tech File\L-edit Lab\inverterr.tsim"
+
+Setup                        0.03 seconds
+Transient Analysis           0.03 seconds
+Overhead                     0.62 seconds
+-----------------------------------------
+Total                        0.68 seconds
+
+Simulation completed	with  1 Warning
